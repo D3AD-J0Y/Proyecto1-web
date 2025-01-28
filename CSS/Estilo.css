@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(112, 177, 189);
+}
+img{
+    width: 450px;
+    height: 450px;
+}
+#img2{
+    width: 500px;
+    height: 500px;
+    border-radius: 81px;
+}
+
+button{
+    background-color: darkslateblue;
+    color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: hand;
+    border-radius: 15px;
+    border-color: black;
+}
+
+nav{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+nav ol li{
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+nav ol li{
+    padding: 40px;
+}
+a:hover{
+    background-color: darkslategrey;
+}
